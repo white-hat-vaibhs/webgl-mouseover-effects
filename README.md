@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/akella/webgl-mouseover-effects)
+
 # Interactive Hover Effects with Three.js
 
 A simple tutorial on how to achieve an interactive mouseover/hover effect on images in some easy steps.
